@@ -1,3 +1,6 @@
+/* google font  */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
 .btn-color{
     background-color:#F496D1;
     color: #3F87F5;
@@ -11,4 +14,10 @@
 
 .toast-style{
     width: 230px;
+}
+.plus-color{
+    background-color: #6610F2;
+}
+.text-color{
+    color: #6610F2;
 }
